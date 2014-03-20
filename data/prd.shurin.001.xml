@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:mods="http://www.loc.gov/mods/v3"
+           version="3.2">
+  <mods:identifier type="local">prd.shurin.001</mods:identifier>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:titleInfo>
+    <mods:title>Illustrated book of fish and aquatic animals compiled by Matsudaira Yoritaka, the Lord of Takamatsu in 18th century Japan: color prints</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Shūrin Tekagami</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Shūrinzu</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+      <mods:place>Japan</mods:place>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1762</mods:dateCreated>
+      <mods:dateCreated>January 29 of Hōreki 12</mods:dateCreated>
+  </mods:originInfo>
+  <mods:location>
+      <mods:physicalLocation authority="marcorg">NNC-EA</mods:physicalLocation>
+      <mods:physicalLocation>C. V. Starr East Asian Library, Columbia University</mods:physicalLocation>
+   </mods:location>
+  <mods:name type="personal">
+    <mods:namePart>Matsudaira, Yoritaka</mods:namePart>
+  </mods:name>
+  <mods:physicalDescription>
+    <mods:extent>31 illustrations</mods:extent>
+    <mods:form authority="gmgpc">prints</mods:form>
+  </mods:physicalDescription>
+  <mods:relatedItem type="host" displayLabel="Project">
+    <mods:titleInfo><mods:title>Customer Order Collection</mods:title></mods:titleInfo>
+  </mods:relatedItem>
+  <mods:relatedItem type="host" displayLabel="Collection">
+    <mods:titleInfo><mods:title>Shūrin Tekagami</mods:title></mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note>Images from an illustrated book of fish and aquatic animals (461 species) compiled by Matsudaira Yoritaka, the Lord of Takamatsu in 18th century Japan.  Upon request from shogunate, Shūrin Tekagami was compiled and donated to the 10th Shogunate, Tokugawa Ieharu on January 29 of Hōreki 12 [1762]</mods:note>
+  <mods:accessCondition type="useAndReproduction">No known restrictions.</mods:accessCondition>
+</mods:mods>

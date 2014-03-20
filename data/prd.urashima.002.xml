@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:mods="http://www.loc.gov/mods/v3"
+           version="3.2">
+  <mods:identifier type="local">prd.urashima.002</mods:identifier>
+  <mods:identifier type="CLIO">4134186</mods:identifier>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:titleInfo>
+    <mods:title>浦島 物語 繪卷物</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Urashima monogatari emakimono</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="uniform">
+    <mods:title>Urashima Tarō</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:place>Japan</mods:place>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="questionable">1600</mods:dateCreated>
+    <mods:dateCreated qualifier="questionable">[16--?]</mods:dateCreated>
+  </mods:originInfo>
+  <mods:location>
+      <mods:physicalLocation authority="marcorg">NNC-EA</mods:physicalLocation>
+      <mods:physicalLocation>C. V. Starr East Asian Library, Columbia University</mods:physicalLocation>
+      <mods:shelfLocator>GR340 .U735 1600</mods:shelfLocator>
+   </mods:location>
+  <mods:physicalDescription>
+    <mods:extent>1 scroll : ill. ; 48 x 1,105 cm.</mods:extent>
+    <mods:form authority="gmgpc">scrolls</mods:form>
+  </mods:physicalDescription>
+  <mods:relatedItem type="host" displayLabel="Project">
+    <mods:titleInfo><mods:title>Customer Order Collection</mods:title></mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note>With 7 pictures (1 double). Cf. Index card. Picture #1 (25 x 49 cm.); picture #2 (25 x 48 cm.); picture #3 (25 x 94 cm.); picture #4 (25 x 49 cm.); picture #5 (26 x 48 cm.); picture #6 (26 x 48 cm.); picture #7 (25 x 48 cm.).</mods:note>
+  <mods:accessCondition type="useAndReproduction">No known restrictions.</mods:accessCondition>
+</mods:mods>
